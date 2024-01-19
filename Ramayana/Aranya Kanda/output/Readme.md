@@ -20,7 +20,7 @@ Primary Archarya is Sri Adi Shankara. He presribed Sanatana Dharmis to live as p
 
 In addition to the moola Acharyas, there are many upa-acharyas and many mutts. In instances where explanations from Acharyas are unavailable, one can approach them too, provided, they follow Sanatana Dharma as prescribed in the Vedas, or may approach their own Guru or an individual well-studies, well-versed and well-respected within the Sanatana Dharma community. This ensures a comprehensive and reliable source of clarification for a deeper understanding of the content.
 
-# The reasoning:
+### The reasoning:
 
 If someone wants to learn Python language, it is ideal to get that knowledge from a well versed Python practitioner. Same kind of knowledge about Python language, without bias, is difficult to get from a Java practitioner. Before or after learning Python thoroughly, if there is interest to learn Java language, then by all means learning Java from the Java practitioner is ideal. It may help to compare.
 Similarly, Sanatana Dharma has to be learnt from those who practise it with reverence, not from anyone else.
