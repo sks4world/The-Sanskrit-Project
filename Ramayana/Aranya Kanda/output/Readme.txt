@@ -1,4 +1,4 @@
-#### This notebook searches for the words that mention meat
+This work searches for the words that mention meat:
 * There are verses that do not directly mention meat, but indirectly refer flesh. For example:
 *     समाश्वस मुहूर्तम् तु शक्यम् वस्तुम् इह त्वया || ३-४७-२२ 
 *     आगमिष्यति मे भर्ता वन्यम् आदाय पुष्कलम् | रुरून् गोधान् वराहान् च हत्वा आदाय अमिषान् बहु || ३-४७-२३
