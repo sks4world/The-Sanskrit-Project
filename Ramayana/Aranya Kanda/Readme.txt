@@ -1,1 +1,24 @@
+I wholeheartedly Thank the following webpage for enabling this research project
+https://www.valmikiramayan.net
+
+ॐ शान्ति शान्ति शान्तिः
+
+I sincerely Thank the following webpage for providing English to Sanskrit translation used in this research project
+https://glosbe.com/en/sa/meat
+
+Sanskrit words for meat
+
+आमिस् 
+पिशित
+मांस
+मांसं
+मांसम्
+
+In this work, the references to meat in Aranya Kanda of Sri Ramayana are identified. 
+
+This GitHub project encourages an analytical approach devoid of emotions. By focusing on data and references, the goal is to delve beyond literal interpretations and scrutinize the entire context. The project urges users to move beyond a line-by-line understanding of references, fostering an environment where they can envision and comprehend the broader narrative.
+
+To enhance the experience, it is recommended to approach the content without relying on existing knowledge or biases. The project encourages curiosity about the written material, its style, and the inferences drawn. The primary objective is fulfilled when users can learn, derive insights, and share valuable information from the references, ultimately benefiting all beings.
+
+धर्मो रक्षति रक्षितः  dharmo rakṣati rakṣitaḥ Protect Dharma So That It Protects Us
 
