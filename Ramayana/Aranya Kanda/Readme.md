@@ -26,11 +26,11 @@ To enhance the experience, it is recommended to approach the content without rel
 
 Summary of Ramayana Kandas:
 
-Bala Kanda ( Book of Youth) [77 chapters]
-Ayodhya Kanda (Book of Ayodhya) [119 chapters]
-Aranya Kanda (Book of Forest ) [75 chapters]
-Kishkindha Kanda (The Empire of Holy Monkeys) [67 chapters]
-Sundara Kanda ( Book of Beauty ) [68 chapters]
-Yuddha Kanda ( Book of War ) [128 chapters]
+* Bala Kanda ( Book of Youth) [77 chapters]
+* Ayodhya Kanda (Book of Ayodhya) [119 chapters]
+* Aranya Kanda (Book of Forest ) [75 chapters]
+* Kishkindha Kanda (The Empire of Holy Monkeys) [67 chapters]
+* Sundara Kanda ( Book of Beauty ) [68 chapters]
+* Yuddha Kanda ( Book of War ) [128 chapters]
 
 ॐ शान्ति शान्ति शान्तिः
