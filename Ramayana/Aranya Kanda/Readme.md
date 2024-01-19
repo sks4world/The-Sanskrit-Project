@@ -1,9 +1,11 @@
-I wholeheartedly Thank the following webpage for enabling this research project
+|| ॐ श्री महा पेरियवा सरणं ||
+
+Gratitude to the following webpage for enabling this research project
 https://www.valmikiramayan.net
 
 ॐ शान्ति शान्ति शान्तिः
 
-I sincerely Thank the following webpage for providing English to Sanskrit translation used in this research project
+Gratitude to the following webpage for providing English to Sanskrit translation used in this research project
 https://glosbe.com/en/sa/meat
 
 Sanskrit words for meat
