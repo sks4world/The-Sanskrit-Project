@@ -17,3 +17,14 @@ https://github.com/svenkatreddy/Ramayana_Book/blob/master/san/aranyakanda_all.js
 https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=3&language=dv&field_sarga_value=44
 
 Code will be posted shortly 
+
+Output images contain the tables created by this code. 
+tb1.png is a Quality check table (known patterns are given and checked if the lines were extracted): passed
+tb2.png contains the references from Aranya Kanda
+tb3.png contains supportive context
+tb4.png also contains supportive context
+
+The approach: 
+The methodology employed in this GitHub project is straightforward. The primary focus is on direct comprehension of the source material. In case questions arise during this process, users are encouraged to seek insights from commentaries authored by our revered Acharyas. These commentaries serve as guides, elucidating how to interpret and apply the teachings in our own lives.
+
+In instances where explanations from Acharyas are unavailable, users are advised to approach their own Guru, the head of their mutt, or an individual well-versed and respected within the Sanatana Dharma community. This ensures a comprehensive and reliable source of clarification for a deeper understanding of the content.
