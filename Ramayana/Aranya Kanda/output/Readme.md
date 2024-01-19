@@ -1,4 +1,4 @@
-# This work searches for the words that mention meat:
+### This work searches for the words that mention meat:
 * There are verses that do not directly mention meat, but indirectly refer flesh. For example:
 *     समाश्वस मुहूर्तम् तु शक्यम् वस्तुम् इह त्वया || ३-४७-२२ 
 *     आगमिष्यति मे भर्ता वन्यम् आदाय पुष्कलम् | रुरून् गोधान् वराहान् च हत्वा आदाय अमिषान् बहु || ३-४७-२३
@@ -12,7 +12,7 @@ Output images contain the tables created by this code.
 *     tb3.png contains supportive context
 *     tb4.png also contains supportive context
 
-# The approach: 
+### The approach: 
 
 The methodology employed in this project is straightforward. The primary focus is on direct comprehension of the source material. In case questions arise during this process, what is the recourse? Users could consider to seek insights from commentaries authored by our revered Acharyas. These commentaries serve as guides, elucidating how to interpret and apply the teachings in our own lives. 
 
