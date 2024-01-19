@@ -22,6 +22,6 @@ In addition to the moola Acharyas, there are many upa-acharyas and many mutts. I
 
 ### The reasoning:
 
-If someone wants to learn Python language, it is ideal to get that knowledge from a well versed Python practitioner. Same kind of knowledge about Python language, without bias, is difficult to get from a Java practitioner. Before or after learning Python thoroughly, if there is interest to learn Java language, then by all means learning Java from the Java practitioner is ideal. It may help to compare.
-Similarly, Sanatana Dharma has to be learnt from those who practise it with reverence, not from anyone else.
-Research work follows the same principle. An understanding of something is based upon the past knowledge from renowned sources in that domain.
+As an example, for those aspiring to master the Python language, it is recommended to seek guidance from an experienced Python practitioner. Gaining unbiased knowledge about Python from a Java practitioner may present challenges. Following a thorough understanding of Python, if there's an interest in learning Java, it is advisable to acquire that knowledge from a proficient Java practitioner. This approach facilitates effective comparison and comprehension.
+
+In a parallel manner, the study of Sanatana Dharma is best undertaken under the guidance of practitioners who approach it with reverence. Similar principles apply to research work, where a comprehensive understanding stems from past knowledge derived from esteemed sources within the specific domain. 
